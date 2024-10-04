@@ -76,6 +76,10 @@ nav ul li a:hover {
   margin-bottom: 80px;
   display: flex;
 }
+.konten-artikelutama{
+  display: flex;
+  flex-direction: column;
+}
 .btn-read {
   background-color: #ab434a;
   border-radius: 30px;
@@ -89,6 +93,11 @@ nav ul li a:hover {
 .img-artikel {
   width: 654px;
   height: 447px;
+}
+.img-artikelutama{
+  max-width: 100%; 
+  height: auto; 
+  margin-bottom: 20px; 
 }
 .konten-footer {
   height: 262px;
