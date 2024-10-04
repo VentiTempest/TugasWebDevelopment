@@ -111,6 +111,11 @@ nav ul li a:hover {
   font-size: 20px;
   padding-left: 62px;
 }
+.deskripsi-konten-utama{
+  font-size: 20px;
+  padding-left: 62px;
+  text-align: justify;
+}
 .icon-sosmed {
   width: 35px;
   height: 35px;
